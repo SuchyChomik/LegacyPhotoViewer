@@ -8,5 +8,3 @@ Made in C#
 # Requirements
 - Windows 10/11
 - .NET Framework 4.7.2
-# source?
-no. maybe in the future
